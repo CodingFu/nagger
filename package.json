@@ -1,0 +1,11 @@
+{
+  "name": "nagger",
+  "version": "1.0.0",
+  "description": "Stupid thing that listens to redis and nags about bad things in slack channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
